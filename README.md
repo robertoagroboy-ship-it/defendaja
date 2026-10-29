@@ -32,3 +32,15 @@ preenchidos com informações reais.
 
 Os detalhes dos ajustes e das verificações de layout estão em
 `ATUALIZACOES-MOBILE.txt`.
+
+## Publicação na Vercel
+
+O projeto contém `vercel.json` para publicação estática, com a pasta raiz como
+saída e sem etapa de build. As rotas das páginas públicas são direcionadas ao
+aplicativo. Os arquivos de documentação e credenciais locais ficam fora do envio.
+
+Com a conta autenticada na Vercel, publique na pasta do projeto:
+
+```sh
+npx vercel --prod
+```

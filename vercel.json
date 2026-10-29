@@ -1,0 +1,16 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/servicos", "destination": "/index.html" },
+    { "source": "/como-funciona", "destination": "/index.html" },
+    { "source": "/quem-somos", "destination": "/index.html" },
+    { "source": "/perguntas-frequentes", "destination": "/index.html" },
+    { "source": "/contato", "destination": "/index.html" },
+    { "source": "/privacidade", "destination": "/index.html" },
+    { "source": "/termos", "destination": "/index.html" },
+    { "source": "/admin/:path*", "destination": "/index.html" }
+  ]
+}
