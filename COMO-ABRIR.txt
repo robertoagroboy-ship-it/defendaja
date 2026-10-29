@@ -1,0 +1,14 @@
+DefendaJá - site completo
+
+Como abrir no seu computador:
+1. Abra o terminal (PowerShell) nesta pasta.
+2. Rode:  npx serve .
+3. Abra no navegador o endereço que aparecer (ex.: http://localhost:3000).
+
+Abrir o index.html com dois cliques não funciona: o site precisa de um servidor local.
+
+Arquivos que você pode editar:
+- depoimentos.json        -> depoimentos de clientes (veja LEIA-ME-depoimentos.txt)
+- clientes/               -> fotos dos clientes
+- logo-defendaja.png      -> logo
+WhatsApp de contato: 41 99687-3191

@@ -1,0 +1,47 @@
+AVALIAÇÕES DE CLIENTES — DefendaJá
+
+Esta versão inclui 10 exemplos fictícios de avaliações positivas para demonstrar
+o layout. Nomes, textos e notas NÃO representam clientes ou experiências reais.
+O aviso aparece na seção e cada cartão mostra "Exemplo ilustrativo".
+Antes de usar em produção, substitua por depoimentos reais autorizados.
+
+COMO EDITAR
+Edite depoimentos.json, mantendo a estrutura de lista JSON.
+O arquivo é carregado ao abrir a página inicial.
+
+Campos de cada avaliação:
+  nome             Nome autorizado do cliente (obrigatório).
+  texto            Depoimento real, aprovado pelo cliente (obrigatório).
+  servico          Serviço relacionado (opcional).
+  nota             Nota real de 1 a 5 (opcional; sem nota, não aparecem estrelas).
+  ano              Ano real do atendimento (opcional).
+  foto             Caminho local, como clientes/joao.jpg (opcional).
+                   Sem foto, ou em caso de falha, aparecem as iniciais do nome.
+  foto_ilustrativa  true identifica uma imagem que não é do próprio cliente.
+  exemplo          true mantém o rótulo de conteúdo fictício naquele cartão.
+
+Para uma avaliação real, substitua nome, texto, nota e demais dados pelos dados
+autorizados e use "exemplo": false. Não basta retirar o aviso dos exemplos.
+O aviso geral desaparece quando não houver mais entradas com "exemplo": true.
+Com uma lista vazia ([]), o carrossel fica oculto, preservando os números do site.
+
+NAVEGAÇÃO
+Desktop: três cartões; tablet: dois; celular: um.
+Setas, deslize no celular e teclado (setas, Home e End).
+Navegação manual por setas, teclado e deslize no celular.
+O avanço automático e o botão Pausar/Retomar foram removidos.
+
+ARQUIVOS
+  assets/avaliacoes.js   Componente editável da seção.
+  assets/avaliacoes.css  Estilos exclusivos da seção.
+  depoimentos.json      Conteúdo das avaliações.
+
+As quatro imagens já existentes em clientes/ são ilustrativas geradas por IA.
+Os 10 exemplos agora usam novos retratos gerados por IA (avaliacao-*-ia.webp).
+Cada cartão identifica a foto gerada por IA e o depoimento ilustrativo.
+As iniciais aparecem somente se uma foto não estiver disponível.
+Os prompts estão no arquivo PROMPTS-fotos-IA.txt.
+Os números institucionais anteriores foram preservados, incluindo [ANO].
+Confirme os números e preencha esse ano com informação real antes de publicar.
+
+Abra o site por servidor local, conforme COMO-ABRIR.txt.

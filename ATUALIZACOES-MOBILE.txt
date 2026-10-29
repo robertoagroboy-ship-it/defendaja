@@ -1,0 +1,26 @@
+DefendaJá — ajustes para celular
+
+- Cabeçalho compacto com atalhos de WhatsApp e menu.
+- Menu com fechamento por toque fora, Escape e seleção de página.
+- Acesso ao WhatsApp no cabeçalho, evitando o botão fixo sobre os cartões.
+- Primeira tela reorganizada, opções com setas e espaçamentos menores.
+- Ilustração 3D carregada somente em telas a partir de 768px com ponteiro preciso.
+- Animações de inclinação e flutuação desativadas em dispositivos de toque.
+- Serviços, números, avaliações e rodapé com layouts ajustados para celular.
+- Avaliações com fotos: navegação manual por setas, teclado ou deslize.
+- Botão Pausar e contador de exemplos removidos.
+- Formulários com campos de 16px, controles maiores e largura ajustada.
+- Links de serviço levam ao formulário selecionado, respeitando o cabeçalho.
+- Aviso de cookies mais compacto, com espaço de segurança inferior.
+
+Verificação em navegador Chromium com simulação de telas:
+320px, 360px, 390px, 430px, 768px e 1440px.
+Rotação e redimensionamento, inclusive celular em paisagem 844x390.
+Menu, páginas, privacidade, termos, fotos, formulários, âncoras e toque conferidos.
+Sem rolagem horizontal na página e sem exceções JavaScript nos testes.
+
+Os depoimentos e retratos gerados por IA continuam identificados como exemplos.
+Dados institucionais ainda marcados entre colchetes devem ser preenchidos com
+informações reais antes de uma publicação definitiva.
+
+Abra pelo servidor local conforme COMO-ABRIR.txt.

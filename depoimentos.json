@@ -1,0 +1,92 @@
+[
+  {
+    "nome": "Mariana S.",
+    "texto": "Consegui entender quais documentos precisava separar e como seria cada etapa. A equipe explicou tudo com calma e respondeu às minhas dúvidas de forma clara. O atendimento me deixou muito mais tranquila para acompanhar a situação.",
+    "servico": "Análise de multa de trânsito",
+    "nota": 5,
+    "exemplo": true,
+    "foto": "clientes/avaliacao-mariana-ia.webp",
+    "foto_ilustrativa": true
+  },
+  {
+    "nome": "Carlos R.",
+    "texto": "Gostei da organização e da atenção desde o primeiro contato. Recebi orientações objetivas sobre os prazos e os documentos do meu caso. Foi muito bom ter alguém disponível para explicar o que aconteceria em seguida.",
+    "servico": "Recurso de multa",
+    "nota": 5,
+    "exemplo": true,
+    "foto": "clientes/avaliacao-carlos-ia.webp",
+    "foto_ilustrativa": true
+  },
+  {
+    "nome": "Fernanda A.",
+    "texto": "Meu maior receio era não entender o processo. A equipe usou uma linguagem simples, ouviu minhas dúvidas e explicou as possibilidades com transparência. Valorizei muito esse cuidado e a atenção durante todo o atendimento.",
+    "servico": "Orientação sobre suspensão da CNH",
+    "nota": 5,
+    "exemplo": true,
+    "foto": "clientes/avaliacao-fernanda-ia.webp",
+    "foto_ilustrativa": true
+  },
+  {
+    "nome": "Rafael M.",
+    "texto": "Uso o carro para trabalhar e precisava de informações claras. Fui bem orientado sobre os documentos e as etapas da análise. O contato foi atencioso, com explicações práticas e sem promessas sobre o resultado do caso.",
+    "servico": "Análise de processo de CNH",
+    "nota": 5,
+    "exemplo": true,
+    "foto": "clientes/avaliacao-rafael-ia.webp",
+    "foto_ilustrativa": true
+  },
+  {
+    "nome": "Juliana C.",
+    "texto": "Gostei de poder tirar minhas dúvidas sem pressa. Cada orientação veio de forma organizada, e ficou fácil entender o que eu precisava enviar. O atendimento foi acolhedor e me ajudou a acompanhar as próximas etapas com mais segurança.",
+    "servico": "Atendimento e análise de documentos",
+    "nota": 5,
+    "exemplo": true,
+    "foto": "clientes/avaliacao-juliana-ia.webp",
+    "foto_ilustrativa": true
+  },
+  {
+    "nome": "André P.",
+    "texto": "Tive um atendimento cuidadoso desde a apresentação do meu caso. A equipe explicou os prazos e conferiu comigo a documentação necessária. Essa atenção aos detalhes fez diferença para eu me organizar e entender melhor o procedimento.",
+    "servico": "Defesa administrativa de multa",
+    "nota": 5,
+    "exemplo": true,
+    "foto": "clientes/avaliacao-andre-ia.webp",
+    "foto_ilustrativa": true
+  },
+  {
+    "nome": "Patrícia L.",
+    "texto": "Recebi explicações claras sobre a notificação e sobre o que poderia ser analisado. Gostei da postura transparente e da disposição para responder às perguntas. Saí do atendimento com uma visão muito melhor dos próximos passos.",
+    "servico": "Análise de notificação de trânsito",
+    "nota": 5,
+    "exemplo": true,
+    "foto": "clientes/avaliacao-patricia-ia.webp",
+    "foto_ilustrativa": true
+  },
+  {
+    "nome": "Bruno F.",
+    "texto": "A comunicação foi simples e direta, do jeito que eu precisava. Consegui reunir os documentos com as orientações recebidas e entender as etapas do acompanhamento. Destaco a cordialidade da equipe e o cuidado ao explicar cada informação.",
+    "servico": "Orientação sobre multas ANTT",
+    "nota": 5,
+    "exemplo": true,
+    "foto": "clientes/avaliacao-bruno-ia.webp",
+    "foto_ilustrativa": true
+  },
+  {
+    "nome": "Camila D.",
+    "texto": "Eu tinha várias dúvidas sobre os pontos da minha habilitação. Fui ouvida com atenção e recebi orientações fáceis de entender. O atendimento foi respeitoso, organizado e muito útil para compreender o que precisava ser avaliado no meu caso.",
+    "servico": "Análise de pontuação da CNH",
+    "nota": 5,
+    "exemplo": true,
+    "foto": "clientes/avaliacao-camila-ia.webp",
+    "foto_ilustrativa": true
+  },
+  {
+    "nome": "Eduardo T.",
+    "texto": "O que mais gostei foi da clareza no atendimento. A equipe explicou o que seria analisado, quais informações faltavam e como eu poderia acompanhar as etapas. Uma experiência atenciosa, com bastante cuidado na comunicação e na organização.",
+    "servico": "Acompanhamento de defesa de trânsito",
+    "nota": 5,
+    "exemplo": true,
+    "foto": "clientes/avaliacao-eduardo-ia.webp",
+    "foto_ilustrativa": true
+  }
+]
